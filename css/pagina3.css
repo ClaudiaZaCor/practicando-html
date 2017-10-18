@@ -1,0 +1,18 @@
+div {
+    display: inline-block;
+    height: 50px;
+    margin: 10px;
+    padding: 20px;
+    width: 150px; 
+}
+
+
+.yellow-box {
+    background: #ffc107;
+      
+}
+.black-box {
+    background:black;
+    color: white;
+   
+}

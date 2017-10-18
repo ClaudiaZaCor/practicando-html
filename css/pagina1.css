@@ -1,0 +1,21 @@
+.color1 {
+    
+    display: block;
+    background: #ffc107;
+    width: 100%;
+    height: 150px;
+    padding: 20px;
+    margin: 5px;
+}
+
+.color2 {
+
+  display: block;
+  background: black;
+  width: 100%;
+  height: 150px;
+  padding: 20px;
+  margin: 5px;
+  color: white;
+  
+}
